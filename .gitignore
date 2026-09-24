@@ -1,0 +1,19 @@
+# Ignore MacOS system files
+.DS_Store
+dev/
+
+# 忽略 VSCode 编辑器配置文件夹
+.vscode/
+# 忽略 Claude 编辑器配置文件夹（如果存在）
+.claude/
+# 忽略 macOS 索引文件
+.Spotlight-V100
+.Trashes
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
+# 忽略 zip 文件
+*.zip
+
+# 本地后端配置密钥（真实密钥不提交）
+backend/config.yaml

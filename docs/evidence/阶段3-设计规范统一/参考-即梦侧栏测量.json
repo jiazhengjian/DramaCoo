@@ -1,0 +1,1468 @@
+{
+  "expanded": {
+    "sidebar": {
+      "class": "sidebar-byjpfT",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 240,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 240,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(23, 23, 23)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 216,
+        "height": 40,
+        "top": 52.40625,
+        "right": 228,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 200,
+        "y": 61.90625,
+        "width": 28,
+        "height": 28,
+        "top": 61.90625,
+        "right": 228,
+        "bottom": 89.90625,
+        "left": 200
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": "去首页",
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 188,
+        "height": 40,
+        "top": 52.40625,
+        "right": 200,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24.959999084472656,
+        "y": 65.36624908447266,
+        "width": 14.080001831054688,
+        "height": 14.080001831054688,
+        "top": 65.36624908447266,
+        "right": 39.040000915527344,
+        "bottom": 79.44625091552734,
+        "left": 24.959999084472656
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 124.40625,
+        "width": 216,
+        "height": 36,
+        "top": 124.40625,
+        "right": 228,
+        "bottom": 160.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "0px 8px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": []
+  },
+  "toggleHover": {
+    "sidebar": {
+      "class": "sidebar-byjpfT",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 240,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 240,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(23, 23, 23)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 216,
+        "height": 40,
+        "top": 52.40625,
+        "right": 228,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 200,
+        "y": 61.90625,
+        "width": 28,
+        "height": 28,
+        "top": 61.90625,
+        "right": 228,
+        "bottom": 89.90625,
+        "left": 200
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": "去首页",
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 188,
+        "height": 40,
+        "top": 52.40625,
+        "right": 200,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24.959999084472656,
+        "y": 65.36624908447266,
+        "width": 14.080001831054688,
+        "height": 14.080001831054688,
+        "top": 65.36624908447266,
+        "right": 39.040000915527344,
+        "bottom": 79.44625091552734,
+        "left": 24.959999084472656
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 124.40625,
+        "width": 216,
+        "height": 36,
+        "top": 124.40625,
+        "right": 228,
+        "bottom": 160.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "0px 8px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": []
+  },
+  "collapsed": {
+    "sidebar": {
+      "class": "sidebar-byjpfT sidebar-collapsed-Zch0he sidebar-layout-compact-Tx97M7",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 64,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 64,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(18, 18, 18)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 40,
+        "height": 40,
+        "top": 52.40625,
+        "right": 52,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 18,
+        "y": 58.40625,
+        "width": 28,
+        "height": 28,
+        "top": 58.40625,
+        "right": 46,
+        "bottom": 86.40625,
+        "left": 18
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 40,
+        "height": 40,
+        "top": 52.40625,
+        "right": 52,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24.959999084472656,
+        "y": 65.36624908447266,
+        "width": 14.080001831054688,
+        "height": 14.080001831054688,
+        "top": 65.36624908447266,
+        "right": 39.040000915527344,
+        "bottom": 79.44625091552734,
+        "left": 24.959999084472656
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH navigation-item-compact-CgVGli",
+      "aria": "创作",
+      "rect": {
+        "x": 14,
+        "y": 124.40625,
+        "width": 36,
+        "height": 36,
+        "top": 124.40625,
+        "right": 50,
+        "bottom": 160.40625,
+        "left": 14
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "6px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": []
+  },
+  "logoHover": {
+    "sidebar": {
+      "class": "sidebar-byjpfT sidebar-collapsed-Zch0he sidebar-layout-compact-Tx97M7",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 64,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 64,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(18, 18, 18)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 40,
+        "height": 40,
+        "top": 52.40625,
+        "right": 52,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 18,
+        "y": 58.40625,
+        "width": 28,
+        "height": 28,
+        "top": 58.40625,
+        "right": 46,
+        "bottom": 86.40625,
+        "left": 18
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 40,
+        "height": 40,
+        "top": 52.40625,
+        "right": 52,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24,
+        "y": 64.40625,
+        "width": 16,
+        "height": 16,
+        "top": 64.40625,
+        "right": 40,
+        "bottom": 80.40625,
+        "left": 24
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH navigation-item-compact-CgVGli",
+      "aria": "创作",
+      "rect": {
+        "x": 14,
+        "y": 124.40625,
+        "width": 36,
+        "height": 36,
+        "top": 124.40625,
+        "right": 50,
+        "bottom": 160.40625,
+        "left": 14
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "6px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": []
+  },
+  "reexpanded": {
+    "sidebar": {
+      "class": "sidebar-byjpfT",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 240,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 240,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(23, 23, 23)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 216,
+        "height": 40,
+        "top": 52.40625,
+        "right": 228,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 200,
+        "y": 61.90625,
+        "width": 28,
+        "height": 28,
+        "top": 61.90625,
+        "right": 228,
+        "bottom": 89.90625,
+        "left": 200
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": "去首页",
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 188,
+        "height": 40,
+        "top": 52.40625,
+        "right": 200,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24.959999084472656,
+        "y": 65.36624908447266,
+        "width": 14.080001831054688,
+        "height": 14.080001831054688,
+        "top": 65.36624908447266,
+        "right": 39.040000915527344,
+        "bottom": 79.44625091552734,
+        "left": 24.959999084472656
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 124.40625,
+        "width": 216,
+        "height": 36,
+        "top": 124.40625,
+        "right": 228,
+        "bottom": 160.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "0px 8px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": []
+  },
+  "buttons": [
+    {
+      "text": "",
+      "aria": "更多设置",
+      "cls": "top-action-icon-IU5ah1",
+      "r": {
+        "x": 1320,
+        "y": 62.40625,
+        "width": 28,
+        "height": 28,
+        "top": 62.40625,
+        "right": 1348,
+        "bottom": 90.40625,
+        "left": 1320
+      }
+    },
+    {
+      "text": "登录",
+      "aria": "登录",
+      "cls": "login-action-pip901",
+      "r": {
+        "x": 1360,
+        "y": 62.40625,
+        "width": 56,
+        "height": 28,
+        "top": 62.40625,
+        "right": 1416,
+        "bottom": 90.40625,
+        "left": 1360
+      }
+    },
+    {
+      "text": "生成",
+      "aria": null,
+      "cls": "lv-btn lv-btn-primary lv-btn-size-default lv-btn-shape-round option-PPaTmy",
+      "r": {
+        "x": 690,
+        "y": 170.40625,
+        "width": 157,
+        "height": 36,
+        "top": 170.40625,
+        "right": 847,
+        "bottom": 206.40625,
+        "left": 690
+      }
+    },
+    {
+      "text": "画布",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round option-PPaTmy",
+      "r": {
+        "x": 849,
+        "y": 170.40625,
+        "width": 157,
+        "height": 36,
+        "top": 170.40625,
+        "right": 1006,
+        "bottom": 206.40625,
+        "left": 849
+      }
+    },
+    {
+      "text": "去查看",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-mini lv-btn-shape-square button-jmwpBs",
+      "r": {
+        "x": 1283.984375,
+        "y": 204.40625,
+        "width": 50,
+        "height": 28,
+        "top": 204.40625,
+        "right": 1333.984375,
+        "bottom": 232.40625,
+        "left": 1283.984375
+      }
+    },
+    {
+      "text": "/",
+      "aria": "调用技能",
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-mini lv-btn-shape-square lv-btn-icon-only button-upA2pI toolbar-button-BYSxAY muted-sXwQrd",
+      "r": {
+        "x": 654.90625,
+        "y": 261.40625,
+        "width": 24,
+        "height": 24,
+        "top": 261.40625,
+        "right": 678.90625,
+        "bottom": 285.40625,
+        "left": 654.90625
+      }
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "lv-btn lv-btn-primary lv-btn-size-default lv-btn-shape-circle lv-btn-icon-only lv-btn-disabled button-upA2pI submit-button-hEPL4O collapsed-submit-button-sbxoFL",
+      "r": {
+        "x": 1303.75,
+        "y": 353.40625,
+        "width": 32,
+        "height": 32,
+        "top": 353.40625,
+        "right": 1335.75,
+        "bottom": 385.40625,
+        "left": 1303.75
+      }
+    },
+    {
+      "text": "自动",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-square button-upA2pI toolbar-button-BYSxAY",
+      "r": {
+        "x": 481.71875,
+        "y": 353.40625,
+        "width": 60,
+        "height": 32,
+        "top": 353.40625,
+        "right": 541.71875,
+        "bottom": 385.40625,
+        "left": 481.71875
+      }
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-circle lv-btn-icon-only button-upA2pI voice-input-button-bubnhO voice-input-button-idle-QwfiGf",
+      "r": {
+        "x": 1259.75,
+        "y": 353.40625,
+        "width": 32,
+        "height": 32,
+        "top": 353.40625,
+        "right": 1291.75,
+        "bottom": 385.40625,
+        "left": 1259.75
+      }
+    },
+    {
+      "text": "",
+      "aria": null,
+      "cls": "lv-btn lv-btn-primary lv-btn-size-default lv-btn-shape-circle lv-btn-icon-only lv-btn-disabled button-upA2pI submit-button-hEPL4O submit-button-mPqQot",
+      "r": {
+        "x": 1303.75,
+        "y": 353.40625,
+        "width": 32,
+        "height": 32,
+        "top": 353.40625,
+        "right": 1335.75,
+        "bottom": 385.40625,
+        "left": 1303.75
+      }
+    },
+    {
+      "text": "/ 电影级长镜头运镜New",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 384.921875,
+        "y": 418.40625,
+        "width": 181.890625,
+        "height": 36,
+        "top": 418.40625,
+        "right": 566.8125,
+        "bottom": 454.40625,
+        "left": 384.921875
+      }
+    },
+    {
+      "text": "/ 创作分镜New",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 574.8125,
+        "y": 418.40625,
+        "width": 133.890625,
+        "height": 36,
+        "top": 418.40625,
+        "right": 708.703125,
+        "bottom": 454.40625,
+        "left": 574.8125
+      }
+    },
+    {
+      "text": "/ 名导风格大师New",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 716.703125,
+        "y": 418.40625,
+        "width": 157.890625,
+        "height": 36,
+        "top": 418.40625,
+        "right": 874.59375,
+        "bottom": 454.40625,
+        "left": 716.703125
+      }
+    },
+    {
+      "text": "/ 叙事短片导演分镜Hot",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 882.59375,
+        "y": 418.40625,
+        "width": 178.234375,
+        "height": 36,
+        "top": 418.40625,
+        "right": 1060.828125,
+        "bottom": 454.40625,
+        "left": 882.59375
+      }
+    },
+    {
+      "text": "/ 微表情导演Hot",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 1068.828125,
+        "y": 418.40625,
+        "width": 142.234375,
+        "height": 36,
+        "top": 418.40625,
+        "right": 1211.0625,
+        "bottom": 454.40625,
+        "left": 1068.828125
+      }
+    },
+    {
+      "text": "/ 电影广告全能导演",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 345.234375,
+        "y": 418.40625,
+        "width": 148,
+        "height": 36,
+        "top": 418.40625,
+        "right": 493.234375,
+        "bottom": 454.40625,
+        "left": 345.234375
+      }
+    },
+    {
+      "text": "/ 系列套图生成",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 345.234375,
+        "y": 418.40625,
+        "width": 124,
+        "height": 36,
+        "top": 418.40625,
+        "right": 469.234375,
+        "bottom": 454.40625,
+        "left": 345.234375
+      }
+    },
+    {
+      "text": "/ 世界观美术设定",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 345.234375,
+        "y": 418.40625,
+        "width": 136,
+        "height": 36,
+        "top": 418.40625,
+        "right": 481.234375,
+        "bottom": 454.40625,
+        "left": 345.234375
+      }
+    },
+    {
+      "text": "/ 角色设计",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 345.234375,
+        "y": 418.40625,
+        "width": 100,
+        "height": 36,
+        "top": 418.40625,
+        "right": 445.234375,
+        "bottom": 454.40625,
+        "left": 345.234375
+      }
+    },
+    {
+      "text": "/ 剧情短片",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 345.234375,
+        "y": 418.40625,
+        "width": 100,
+        "height": 36,
+        "top": 418.40625,
+        "right": 445.234375,
+        "bottom": 454.40625,
+        "left": 345.234375
+      }
+    },
+    {
+      "text": "/ 电商套图",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round capsule-Ce4F2R capsule-BCpR_d",
+      "r": {
+        "x": 345.234375,
+        "y": 418.40625,
+        "width": 100,
+        "height": 36,
+        "top": 418.40625,
+        "right": 445.234375,
+        "bottom": 454.40625,
+        "left": 345.234375
+      }
+    },
+    {
+      "text": "更多技能",
+      "aria": null,
+      "cls": "lv-btn lv-btn-secondary lv-btn-size-default lv-btn-shape-round trailing-action-ciKVz0",
+      "r": {
+        "x": 1219.0625,
+        "y": 418.40625,
+        "width": 96,
+        "height": 36,
+        "top": 418.40625,
+        "right": 1315.0625,
+        "bottom": 454.40625,
+        "left": 1219.0625
+      }
+    },
+    {
+      "text": "",
+      "aria": "即梦精选广告片 · MANGO GLASS PRO",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 280,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 600,
+        "bottom": 718.40625,
+        "left": 280
+      }
+    },
+    {
+      "text": "",
+      "aria": "一键 3D 白模转视频",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 602,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 922,
+        "bottom": 718.40625,
+        "left": 602
+      }
+    },
+    {
+      "text": "",
+      "aria": "让你更了解 Seedance2.5 样片模式",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 924,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 1244,
+        "bottom": 718.40625,
+        "left": 924
+      }
+    },
+    {
+      "text": "",
+      "aria": "即梦片场上线——寻找AI时代最敢想象的好故事",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 1246,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 1566,
+        "bottom": 718.40625,
+        "left": 1246
+      }
+    },
+    {
+      "text": "",
+      "aria": "联想昭阳 x 酷睿 全民AI创意大赛",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 1568,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 1888,
+        "bottom": 718.40625,
+        "left": 1568
+      }
+    },
+    {
+      "text": "",
+      "aria": "Graphis AI创意设计竞赛 · 即梦创作者五折报名费优惠",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 1890,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 2210,
+        "bottom": 718.40625,
+        "left": 1890
+      }
+    },
+    {
+      "text": "",
+      "aria": "即梦AI 创作者成长计划・造梦新章",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 2212,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 2532,
+        "bottom": 718.40625,
+        "left": 2212
+      }
+    },
+    {
+      "text": "",
+      "aria": "即梦APP · 创作者招募计划",
+      "cls": "card-NfOgKO",
+      "r": {
+        "x": 2534,
+        "y": 538.40625,
+        "width": 320,
+        "height": 180,
+        "top": 538.40625,
+        "right": 2854,
+        "bottom": 718.40625,
+        "left": 2534
+      }
+    }
+  ],
+  "settingsPopover": {
+    "sidebar": {
+      "class": "sidebar-byjpfT",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 240,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 240,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(23, 23, 23)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 216,
+        "height": 40,
+        "top": 52.40625,
+        "right": 228,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 200,
+        "y": 61.90625,
+        "width": 28,
+        "height": 28,
+        "top": 61.90625,
+        "right": 228,
+        "bottom": 89.90625,
+        "left": 200
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": "去首页",
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 188,
+        "height": 40,
+        "top": 52.40625,
+        "right": 200,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24.959999084472656,
+        "y": 65.36624908447266,
+        "width": 14.080001831054688,
+        "height": 14.080001831054688,
+        "top": 65.36624908447266,
+        "right": 39.040000915527344,
+        "bottom": 79.44625091552734,
+        "left": 24.959999084472656
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 124.40625,
+        "width": 216,
+        "height": 36,
+        "top": 124.40625,
+        "right": 228,
+        "bottom": 160.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "0px 8px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": []
+  },
+  "settingsMenu": [
+    {
+      "cls": "dropdown-trigger-FiTCh8",
+      "text": "",
+      "r": {
+        "x": 1320,
+        "y": 58.40625,
+        "width": 28,
+        "height": 36,
+        "top": 58.40625,
+        "right": 1348,
+        "bottom": 94.40625,
+        "left": 1320
+      },
+      "display": "flex",
+      "visibility": "visible",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(0, 0, 0)",
+      "border": "0px none rgb(0, 0, 0)",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "boxShadow": "none"
+    }
+  ],
+  "navTooltip": {
+    "sidebar": {
+      "class": "sidebar-byjpfT sidebar-collapsed-Zch0he sidebar-layout-compact-Tx97M7",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 38.40625,
+        "width": 64,
+        "height": 921.59375,
+        "top": 38.40625,
+        "right": 64,
+        "bottom": 960,
+        "left": 0
+      },
+      "display": "flex",
+      "background": "rgb(18, 18, 18)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "14px 12px 12px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "header": {
+      "class": "sidebar-header-y2OURX",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 40,
+        "height": 40,
+        "top": 52.40625,
+        "right": 52,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "toggle": {
+      "class": "sidebar-toggle-oxA94U",
+      "aria": null,
+      "rect": {
+        "x": 18,
+        "y": 58.40625,
+        "width": 28,
+        "height": 28,
+        "top": 58.40625,
+        "right": 46,
+        "bottom": 86.40625,
+        "left": 18
+      },
+      "display": "grid",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "6px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "logo": {
+      "class": "logo-H9FxGY",
+      "aria": null,
+      "rect": {
+        "x": 12,
+        "y": 52.40625,
+        "width": 40,
+        "height": 40,
+        "top": 52.40625,
+        "right": 52,
+        "bottom": 92.40625,
+        "left": 12
+      },
+      "display": "flex",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "logoExpand": {
+      "class": {},
+      "aria": null,
+      "rect": {
+        "x": 24,
+        "y": 64.40625,
+        "width": 16,
+        "height": 16,
+        "top": 64.40625,
+        "right": 40,
+        "bottom": 80.40625,
+        "left": 24
+      },
+      "display": "block",
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "fontSize": "13.3333px",
+      "fontWeight": "400",
+      "borderRadius": "0px",
+      "padding": "0px",
+      "outline": "rgba(255, 255, 255, 0.6) none 3px"
+    },
+    "nav": {
+      "class": "navigation-item-zRsSwH navigation-item-compact-CgVGli lv-tooltip-open",
+      "aria": "创作",
+      "rect": {
+        "x": 14,
+        "y": 124.40625,
+        "width": 36,
+        "height": 36,
+        "top": 124.40625,
+        "right": 50,
+        "bottom": 160.40625,
+        "left": 14
+      },
+      "display": "flex",
+      "background": "rgba(255, 255, 255, 0.08)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "borderRadius": "8px",
+      "padding": "6px",
+      "outline": "rgb(255, 255, 255) none 3px"
+    },
+    "popovers": [
+      {
+        "class": "lv-tooltip-content lv-tooltip-content-right",
+        "aria": null,
+        "rect": {
+          "x": 54,
+          "y": 124.40625,
+          "width": 56,
+          "height": 36,
+          "top": 124.40625,
+          "right": 110,
+          "bottom": 160.40625,
+          "left": 54
+        },
+        "display": "inline-flex",
+        "background": "rgb(51, 51, 51)",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "borderRadius": "8px",
+        "padding": "8px 16px",
+        "outline": "rgb(255, 255, 255) none 3px"
+      },
+      {
+        "class": "lv-tooltip-content-inner",
+        "aria": null,
+        "rect": {
+          "x": 70,
+          "y": 132.40625,
+          "width": 24,
+          "height": 20,
+          "top": 132.40625,
+          "right": 94,
+          "bottom": 152.40625,
+          "left": 70
+        },
+        "display": "block",
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "outline": "rgb(255, 255, 255) none 3px"
+      }
+    ]
+  }
+}
